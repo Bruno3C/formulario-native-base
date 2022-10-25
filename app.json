@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-form",
+    "slug": "react-form",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
